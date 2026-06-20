@@ -53,5 +53,20 @@ print(greet("MOSES"))
 >
 >>There is no clean big money and there is no big money which is clean 
 
-
+# **ABOUT ME**
+## **_skills_**
+NetworkTech and passion in cybertech
+## CV link
 [googledrive-cv]_(https://drive.google.com/file/d/15sq4z-I5GZD5RqBH393iKG41SFPr7C5B/view?usp=sharing)
+## What I like bout Tech 
+- [ ] Digitization
+- [ ] career
+- [ ] earnings
+- [ ] simplifying life
+## Checkoff the priority of above reasons
+- [ ] Digitization
+- [ ] career
+- [x] earnings
+- [x] simplifying life
+#### future plans in tech
+In 10 years i would like to have gained enough experience in network and cybertech and the field to be favourable to me with opportunities to polish the skills
