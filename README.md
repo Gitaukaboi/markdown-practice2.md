@@ -69,4 +69,4 @@ NetworkTech and passion in cybertech
 - [x] earnings
 - [x] simplifying life
 #### future plans in tech
-In 10 years i would like to have gained enough experience in network and cybertech and the field to be favourable to me with opportunities to polish the skills
+In 10 years time, i would like to have gained enough experience in network and cybertech and the field to be favourable to me with opportunities to polish the skills
